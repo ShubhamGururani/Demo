@@ -1,0 +1,17 @@
+input {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+form{
+	width: 100%;
+	display: inline-block;
+}
+div{
+	margin: 200px 0px 200px 0px;
+	text-align: center;
+}
+input[type="number"]::placeholder {  
+    text-align: center; 
+}

@@ -1,0 +1,35 @@
+.one {
+	background-color: #beef00;
+	color: #7d3cff;
+	padding: 5px;
+	margin: 5px;
+	border-style: v;
+}
+.two {
+	background-color: #ff0028;
+	color: #fceed1;
+	padding: 10px;
+	margin: 10px;
+	border-style: hidden;
+}
+.three {
+	background-color: #657a00;
+	color: white;
+	padding: 15px;
+	margin: 15px;
+	border-style: double;
+}
+.four {
+	background-color: #fceed1;
+	color: #ff0028;
+	padding: 20px;
+	margin: 20px;
+	border-style: dashed;
+}
+.five {
+	background-color: #7d3cff;
+	color: #beef00;
+	padding: 25px;
+	margin: 25px;
+	border-style: groove;
+}
